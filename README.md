@@ -4,9 +4,9 @@
 
 ## 在线地址（已部署）
 
-- 播放页：<https://zuyi90693-maker.github.io/Smart_Hom.github.io/>
-- 视频直链：<https://zuyi90693-maker.github.io/Smart_Hom.github.io/yun-jiaju.mp4>
-- 仓库：<https://github.com/zuyi90693-maker/Smart_Hom.github.io>
+- 播放页（短链接）：<https://zuyi90693-maker.github.io/>
+- 视频直链：<https://zuyi90693-maker.github.io/yun-jiaju.mp4>
+- 仓库：<https://github.com/zuyi90693-maker/zuyi90693-maker.github.io>
 
 托管方式：GitHub Pages（`main` 分支根目录，Deploy from a branch）。
 
