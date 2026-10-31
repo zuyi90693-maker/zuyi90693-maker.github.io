@@ -2,6 +2,14 @@
 
 把 `云家居视频.mp4` 做成了一个可以直接用浏览器打开、拖动进度条播放的网页，代码放在 git 仓库里，可直接推到 GitHub Pages 得到公网链接。
 
+## 在线地址（已部署）
+
+- 播放页：<https://zuyi90693-maker.github.io/Smart_Hom.github.io/>
+- 视频直链：<https://zuyi90693-maker.github.io/Smart_Hom.github.io/yun-jiaju.mp4>
+- 仓库：<https://github.com/zuyi90693-maker/Smart_Hom.github.io>
+
+托管方式：GitHub Pages（`main` 分支根目录，Deploy from a branch）。
+
 ## 文件说明
 
 | 文件 | 用途 |
